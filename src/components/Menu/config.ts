@@ -32,9 +32,9 @@ const config: MenuEntry[] = [
   },
 
   {
-    label: "Layered Farming (23RD MAY)",
+    label: "Layered Farming",
     icon: 'FarmIcon',
-    href: '/',
+    href: 'https://layer.grizzlyswap.com',
   },
 
   {
