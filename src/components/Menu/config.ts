@@ -30,11 +30,19 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: '/pools',
   },
-
   {
-    label: "Layered Farming",
-    icon: 'FarmIcon',
-    href: 'https://layer.grizzlyswap.com',
+    label: 'Layered Farming',
+    icon: 'IfoIcon',
+    items: [
+      {
+        label: 'Layer 1 (GRZX)',
+        href: 'https://layer.grizzlyswap.com',
+      },
+      {
+        label: 'Layer 2 (BEAR2)',
+        href: 'https://layer2.grizzlyswap.com'
+      },
+    ],
   },
 
   {
