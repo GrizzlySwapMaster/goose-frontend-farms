@@ -46,7 +46,7 @@ const config: MenuEntry[] = [
   },
   {
     label: 'Partnership (Cross Farm)',
-    icon: 'GroupIcon',
+    icon: 'GroupsIcon',
     items: [
       {
         label: 'EagelSwap',
